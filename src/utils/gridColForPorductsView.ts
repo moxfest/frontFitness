@@ -1,0 +1,1 @@
+export const GridColForPorductsView='grid max-xl:grid-cols-2 max-sm:grid-cols-1 grid-cols-4 gap-10'
